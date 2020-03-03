@@ -1,3 +1,2 @@
 # HomeWork
-Домашнее задание к курсу
-Курс "https://stepik.org/course/575/syllabus"
+Домашнее задание к курсу, ссыдка на курс: "https://stepik.org/course/575/syllabus"
